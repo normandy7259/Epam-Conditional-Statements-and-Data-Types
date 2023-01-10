@@ -64,16 +64,4 @@ console.log('j =', j);
 // happy end of part 1
 
 
-let eq1 = 5 == 5;
-let eq2 = 5 =='5';
-console.log('eq1 =', eq1);
-console.log('eq2 =', eq2);
-
-
-let str = typeof "John";
-let nmb = typeof 3.14;
-let bool = typeof false;
-console.log('str =', str);
-console.log('nbm =', nbm);
-console.log('bool =', bool);
-
+let 

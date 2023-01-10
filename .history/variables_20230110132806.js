@@ -69,7 +69,7 @@ let eq2 = 5 =='5';
 console.log('eq1 =', eq1);
 console.log('eq2 =', eq2);
 
-
+typeof
 let str = typeof "John";
 let nmb = typeof 3.14;
 let bool = typeof false;

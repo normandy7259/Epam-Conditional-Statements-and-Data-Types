@@ -70,10 +70,3 @@ console.log('eq1 =', eq1);
 console.log('eq2 =', eq2);
 
 
-let str = typeof "John";
-let nmb = typeof 3.14;
-let bool = typeof false;
-console.log('str =', str);
-console.log('nbm =', nbm);
-console.log('bool =', bool);
-
