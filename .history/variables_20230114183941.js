@@ -129,7 +129,7 @@ const sum = function(a, b){
 }
 
 const result = sum(5, 10);
-console.log ('result is ', result);
+console.log ('')
 
 
 

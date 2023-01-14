@@ -109,27 +109,7 @@ if (age >= 18 && age <= 25){
 }*/
 
 
-/*const result = sum (5, 10);
-console.log('result is: ', result);
 
-function sum(a,b){
-    return a + b;
-}*/
-
-
-/*function sayHey() {
-    console.log('Hey!');
-}
-
-const result = sayHey();
-console.log('result is: ', result);*/
-
-const sum = function(a, b){
-    return a + b;
-}
-
-const result = sum(5, 10);
-console.log ('result is ', result);
 
 
 
