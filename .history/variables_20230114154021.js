@@ -96,7 +96,7 @@ console.log('I am here')*/
  * 41-99 => 30%
  */
 
-const age = 45;
+const age = 20;
 
 if (age >= 18 && age <= 25){
     console.log('18%');
@@ -105,7 +105,7 @@ if (age >= 18 && age <= 25){
 } else if (age >= 41 && age <= 99) {
     console.log('30%')
 } else {
-    console.log('Error')
+    console.log('20%')
 }
 
 
