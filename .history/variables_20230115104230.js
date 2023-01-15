@@ -135,18 +135,8 @@ console.log ('result is ', result); */
     console.log('Did you call me?');
 
 })()
-let a = function() {
-    console.log('I am A and I was called');
-}
-a();
+let a = function()
 
-(function (name){
-    console.log('I am ' + name + ' and I was called');
-})('Jack');
 
-let b = function (name){
-    console.log('I am ' + name + ' and I was called');
-};
-b('Jack');
 
 

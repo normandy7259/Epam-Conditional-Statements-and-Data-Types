@@ -144,9 +144,6 @@ a();
     console.log('I am ' + name + ' and I was called');
 })('Jack');
 
-let b = function (name){
-    console.log('I am ' + name + ' and I was called');
-};
-b('Jack');
+let b = function (name)
 
 

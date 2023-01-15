@@ -131,22 +131,11 @@ console.log('result is: ', result);*/
 const result = sum(5, 10);
 console.log ('result is ', result); */
 
-(function(){
-    console.log('Did you call me?');
+(function()
+    console.log('Did you call ')
 
-})()
-let a = function() {
-    console.log('I am A and I was called');
-}
-a();
+)
 
-(function (name){
-    console.log('I am ' + name + ' and I was called');
-})('Jack');
 
-let b = function (name){
-    console.log('I am ' + name + ' and I was called');
-};
-b('Jack');
 
 

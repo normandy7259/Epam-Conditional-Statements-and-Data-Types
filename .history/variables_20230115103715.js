@@ -124,29 +124,15 @@ function sum(a,b){
 const result = sayHey();
 console.log('result is: ', result);*/
 
-/*const sum = function(a, b){
+const sum = function(a, b){
     return a + b;
 }
 
 const result = sum(5, 10);
-console.log ('result is ', result); */
+console.log ('result is ', result); 
 
-(function(){
-    console.log('Did you call me?');
 
-})()
-let a = function() {
-    console.log('I am A and I was called');
-}
-a();
 
-(function (name){
-    console.log('I am ' + name + ' and I was called');
-})('Jack');
 
-let b = function (name){
-    console.log('I am ' + name + ' and I was called');
-};
-b('Jack');
 
 

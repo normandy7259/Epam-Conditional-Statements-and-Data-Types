@@ -140,13 +140,7 @@ let a = function() {
 }
 a();
 
-(function (name){
-    console.log('I am ' + name + ' and I was called');
-})('Jack');
+(function)
 
-let b = function (name){
-    console.log('I am ' + name + ' and I was called');
-};
-b('Jack');
 
 
